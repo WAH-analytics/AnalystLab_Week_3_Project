@@ -1,9 +1,5 @@
 # AnalystLab_Week_3_Project
 Sales Data Sample and Chinook Dataset
-
-# AnalystLab_Week_3_Project
-
-## Chinook and Sample Sales Datasets
 ### AnalystLab Africa Data Analytics Internship Project
 
 ---
@@ -71,3 +67,7 @@ SQL was leveraged as the core enterprise tool for:
 ## Conclusion
 This project demonstrates the core value of relational data engineering and advanced querying in transforming raw database tables into targeted corporate insights. By moving beyond flat-file extraction into complex multi-table structures, the datasets were successfully shaped into highly reliable assets. The resulting models offer clear, strategic guidance for optimizing inventory distribution, executing geographic marketing allocations, and cultivating high-value consumer retention channels.
 
+## Deliverables
+Sales and Chinook Reports
+chinook-analysis.sql
+sample_sales_queries.sql
